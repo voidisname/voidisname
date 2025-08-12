@@ -1,5 +1,4 @@
 ### Hi there 👋
-my site is : **nil** and amm
 
 <p align="center"><a href="https://github.com/astral-sh/ruff"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json" alt="Ruff" style="max-width:100%;"></a></p>
 
